@@ -1,5 +1,5 @@
 # JetCalc
-A simple calculator capable of doing basic arithmetic operations 
+A simple calculator capable of doing basic arithmetic operations written in Jetpack Compose
 
 
 ## Preview/Screenshots
